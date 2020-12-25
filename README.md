@@ -57,10 +57,6 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=100ravp&show_icons=true&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats)
 
-## Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=100ravp)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 [website]: https://www.datasciencenovice.com/
