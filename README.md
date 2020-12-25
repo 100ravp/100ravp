@@ -54,11 +54,9 @@
 
 ---
 
-<details>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=100ravp&show_icons=true&theme=radical)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=100ravp)](https://github.com/anuraghazra/github-readme-stats)
 
-
-</details>
 
 
 
