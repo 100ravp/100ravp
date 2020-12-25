@@ -19,7 +19,7 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
+---
 
 ### 📕 Latest Blog Posts
 
@@ -32,7 +32,7 @@
 
 ➡️ [more blog posts...](https://www.datasciencenovice.com/)
 
-
+---
 
 [website]: https://www.datasciencenovice.com/
 [course]: https://www.youtube.com/watch?v=jmj1ksiDGYM&list=PLtCJhQPz4XPVmfcl60l5XrWfCAp12mFr3
