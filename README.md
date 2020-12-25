@@ -17,3 +17,11 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+[website]: https://www.datasciencenovice.com/
+[course]: https://www.youtube.com/watch?v=jmj1ksiDGYM&list=PLtCJhQPz4XPVmfcl60l5XrWfCAp12mFr3
+[youtube]: https://www.youtube.com/c/DSNovice
+[instagram]: https://instagram.com/saurav_prasad
+[linkedin]: https://www.linkedin.com/in/saurav2020/
+[webdevplaylist]: https://www.youtube.com/watch?v=nc_V7DWHWdg&list=PLtCJhQPz4XPWvUF4jU9dv3rQ38dNzNEuu
