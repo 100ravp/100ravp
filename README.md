@@ -1,6 +1,5 @@
-### Hi there 👋, Saurav Prasad
-#### Data Scientist and AI enthusiast
-I'm Saurav from India, and I do content on Data Science and Machine Learning. I enjoy learning new concepts and frameworks like TensorFlow. You can check out my blog https://datasciencenovice.blogspot.com/ or https://www.youtube.com/c/DSNovice
+# Saurav Prasad
+I'm Saurav from India, and I do content on Data Science and Machine Learning. I enjoy learning new concepts and frameworks like TensorFlow. You can check out my blog 
 
 ## Skills and Experience
 Python / C++ / SQL / NumPy / Pandas/ Scikit-Learn/ TensorFLow 
