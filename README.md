@@ -1,6 +1,6 @@
 # My Website
 
-[![Website](https://1.bp.blogspot.com/-Ei9i4bENgd8/XzQWm87EqqI/AAAAAAAAKSg/K7nAES1TETkns3Zm3ujuVcp0QhVzP9lXwCLcBGAsYHQ/w375-h375/logo.png)](https://www.datasciencenovice.com/)
+[![Website]()](https://www.datasciencenovice.com/)
 
 
 ### Hi there, I'm Saurav Prasad - aka [100ravp][website] 👋
