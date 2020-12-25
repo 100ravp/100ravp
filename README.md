@@ -19,6 +19,16 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [How Recurrent Neural Network Works](https://www.datasciencenovice.com/2020/12/how-recurrent-neural-network-works-lstm.html)
+- [How to prepare data for machine learning algorithms](https://www.datasciencenovice.com/2020/10/how-to-prepare-data-machine-learning.html)
+- [How Neural Network works](https://www.datasciencenovice.com/2020/09/how-neural-network-works-deep-learning.html)
+- [How Convolutional Neural Network works](https://www.datasciencenovice.com/2020/09/4-layers-of-convoluitonal-neural-network.html)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://www.datasciencenovice.com/)
 
 
 
