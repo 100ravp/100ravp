@@ -54,7 +54,7 @@
 
 ---
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=100ravp&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=100ravp&show_icons=true&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
