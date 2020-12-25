@@ -1,5 +1,5 @@
 # Saurav Prasad
-I'm Saurav from India, and I do content on Data Science and Machine Learning. I enjoy learning new concepts and frameworks like TensorFlow. You can check out my blog 
+I'm Saurav from India, and I do content on Data Science and Machine Learning. I enjoy learning new concepts and frameworks like TensorFlow.
 
 ## Skills and Experience
 Python / C++ / SQL / NumPy / Pandas/ Scikit-Learn/ TensorFLow 
