@@ -1,6 +1,6 @@
 ### Hi there, I'm Saurav Prasad - aka [100ravp][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.datasciencenovice.com/)
+[![Website](https://1.bp.blogspot.com/-Ei9i4bENgd8/XzQWm87EqqI/AAAAAAAAKSg/K7nAES1TETkns3Zm3ujuVcp0QhVzP9lXwCLcBGAsYHQ/w375-h375/logo.png)](https://www.datasciencenovice.com/)
 
 ## I'm a Data Scientist, and Teacher!!
 
