@@ -23,6 +23,19 @@
 <br />
 <br />
 
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+- [04- Transfer Learning with CNNs | Deep Learning with Tensorflow and Artificial Intelligence | 2020](https://www.youtube.com/watch?v=OZYB3cxfYwI)
+- [03- Batch Normalization Data Augmentation Deep Learning with Tensorflow and Artificial Intelligence](https://www.youtube.com/watch?v=sYBrlijw3lA)
+- [02- Convolutional Neural Network | Deep Learning with Tensorflow and Artificial Intelligence | 2020](https://www.youtube.com/watch?v=wveG0A_Stv8&t=1043s)
+- [01- Artificial Neural Network | Deep Learning with Tensorflow and Artificial Intelligence | 2020](https://www.youtube.com/watch?v=jmj1ksiDGYM&t=5s)
+- [Lesson-11 Contours Detection | Object Detection | Hands-on Tutorial Open CV with Python | 2020](https://www.youtube.com/watch?v=RPgYfaJn4qY)
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://www.youtube.com/c/DSNovice)
+
+
 
 ---
 
