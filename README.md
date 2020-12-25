@@ -54,6 +54,15 @@
 
 ---
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=100ravp&show_icons=true&hide_border=true" />
+
+</details>
+
+
+
 [website]: https://www.datasciencenovice.com/
 [course]: https://www.youtube.com/watch?v=jmj1ksiDGYM&list=PLtCJhQPz4XPVmfcl60l5XrWfCAp12mFr3
 [youtube]: https://www.youtube.com/c/DSNovice
