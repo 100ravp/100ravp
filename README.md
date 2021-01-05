@@ -28,6 +28,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [05- Recurrent Neural Network | Deep Learning with Tensorflow and Artificial Intelligence | 2020](https://www.youtube.com/watch?v=8cSn36H4JcA)
 - [04- Transfer Learning with CNNs | Deep Learning with Tensorflow and Artificial Intelligence | 2020](https://www.youtube.com/watch?v=OZYB3cxfYwI)
 - [03- Batch Normalization Data Augmentation Deep Learning with Tensorflow and Artificial Intelligence](https://www.youtube.com/watch?v=sYBrlijw3lA)
 - [02- Convolutional Neural Network | Deep Learning with Tensorflow and Artificial Intelligence | 2020](https://www.youtube.com/watch?v=wveG0A_Stv8&t=1043s)
