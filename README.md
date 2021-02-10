@@ -2,8 +2,6 @@
 ### Hi there, I'm Saurav Prasad 👋
 
 
-## I'm a Data Scientist, and Teacher!!
-
 - 🔭 I just launched my first course: [Deep Learning with TensorFlow!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
