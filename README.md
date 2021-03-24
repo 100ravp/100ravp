@@ -33,6 +33,14 @@
 - [02- Convolutional Neural Network | Deep Learning with Tensorflow and Artificial Intelligence | 2020](https://www.youtube.com/watch?v=wveG0A_Stv8&t=1043s)
 <!-- YOUTUBE:END -->
 
+
+### 📺 YouTube Playlist
+
+<!-- YOUTUBE:START -->
+- [Deep Learning with Tensorflow](https://www.youtube.com/watch?v=jmj1ksiDGYM&list=PLtCJhQPz4XPVmfcl60l5XrWfCAp12mFr3)
+
+<!-- YOUTUBE:END -->
+
 ➡️ [more videos...](https://www.youtube.com/c/DSNovice)
 
 
