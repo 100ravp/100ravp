@@ -34,10 +34,14 @@
 <!-- YOUTUBE:END -->
 
 
+
 ### 📺 YouTube Playlist
 
 <!-- YOUTUBE:START -->
 - [Deep Learning with Tensorflow](https://www.youtube.com/watch?v=jmj1ksiDGYM&list=PLtCJhQPz4XPVmfcl60l5XrWfCAp12mFr3)
+- [Natural Language Processing with Python](https://www.youtube.com/watch?v=nAN45wOo_Kc&list=PLtCJhQPz4XPV2kxkU_w9_n2OkX-gcICSE)
+- [Data Science Projects](https://www.youtube.com/watch?v=ZqI1GSLjW1M&list=PLtCJhQPz4XPU1WvrW7ln2GZVwCsHxVcsw)
+- [Deep Learning Projects](https://www.youtube.com/watch?v=F3339OkenEg&list=PLtCJhQPz4XPXXtOLWUUIVYxNzkS5L5iQh)
 
 <!-- YOUTUBE:END -->
 
